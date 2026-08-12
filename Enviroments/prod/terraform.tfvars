@@ -4,6 +4,10 @@ rg = {
     name     = "rg-tanmoy"
     location = "Central India"
   }
+    rg2 = {
+    name     = "rg-tanu"
+    location = "Central India"
+  }
 }
 
 
